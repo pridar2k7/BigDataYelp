@@ -5,12 +5,14 @@ TopN$TopNMapper.class
 Yelp.class
 YelpSecond$Map.class
 TopN$1.class
-TopN$TopNCombiner.class
-WordCount$Reduce.class
+YelpThird.class
 TopN.class
+WordCount$Reduce.class
+TopN$TopNCombiner.class
 YelpSecond$SecondMap.class
 Yelp$Map.class
+YelpThird$ReviewsByAreaMapper.class
 WordCount.class
 YelpSecond$SecondMap$1.class
-YelpSecond$Combine.class
 YelpSecond.class
+YelpSecond$Combine.class
